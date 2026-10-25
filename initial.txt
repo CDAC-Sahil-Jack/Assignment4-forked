@@ -6,3 +6,6 @@ SVC(.) Refer to Questions on the assignment.
 	3.BTR
 	4.BIT
 	5.SMT
+	6.ANJ
+	7.AGR
+	8.SHK
