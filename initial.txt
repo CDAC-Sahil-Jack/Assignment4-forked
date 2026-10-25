@@ -9,3 +9,5 @@ SVC(.) Refer to Questions on the assignment.
 	6.ANJ
 	7.AGR
 	8.SHK
+
+Detailed report to be submitted ASAP
