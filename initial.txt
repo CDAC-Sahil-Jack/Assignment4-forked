@@ -1,13 +1,1 @@
-SVC(.) Refer to Questions on the assignment.
-	The following Vessels to change plan of course
-
-	1.DSK
-	2.ANV
-	3.BTR
-	4.BIT
-	5.SMT
-	6.ANJ
-	7.AGR
-	8.SHK
-
-Detailed report to be submitted ASAP
+This is the final
